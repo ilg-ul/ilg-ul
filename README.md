@@ -16,6 +16,7 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 - [github.com/xpack](https://github.com/xpack/) - GitHub organisation with multiple projects
 - [github.com/xpack-dev-tools](https://github.com/xpack-dev-tools/) - GitHub organisation with multi-platform binary xPack development tools
 - [ilg-vscode.xpack](https://marketplace.visualstudio.com/items?itemName=ilg-vscode.xpack) - VS Code xPack extension
+- [@xpack_project](https://twitter.com/xpack_project) - Twitter account for releases notifications
 
 ### µOS++
 
@@ -24,6 +25,7 @@ The **µOS++** project is a POSIX-like, portable, open source, royalty-free, mul
 - [micro-os-plus.github.io](http://micro-os-plus.github.io) - project web site
 - [github.com/micro-os-plus](https://github.com/micro-os-plus/) - GitHub organisation with multiple projects
 - [github.com/xpack-3rd-party](https://github.com/xpack-3rd-party/) - GitHub organisation with 3rd party libraries
+- [@micro_os_plus](https://twitter.com/micro_os_plus) - Twitter account for releases notifications
 
 ### Eclipse Embedded CDT
 
@@ -31,9 +33,12 @@ The **µOS++** project is a POSIX-like, portable, open source, royalty-free, mul
 
 - [eclipse-embed-cdt.github.io](https://eclipse-embed-cdt.github.io/) - project web site
 - [github.com/eclipse-embed-cdt](https://github.com/eclipse-embed-cdt/) - GitHub organisation
+- [@EmbedCDT](https://twitter.com/EmbedCDT) - Twitter account for releases notifications
 
 ### Private links
 
+- [@ilegeul](https://twitter.com/ilegeul) - Twitter account
+- [linkedin.com](https://www.linkedin.com/in/liviu-ionescu/) - LinkedIn profile
 - [ilgthegeek](https://ilgthegeek.wordpress.com) - ilg The Geek's blog
 - [ilegeul](https://ilegeul.wordpress.com) - Liviu's personal blog
 
