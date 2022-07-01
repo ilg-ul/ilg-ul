@@ -1,4 +1,4 @@
-My current interrests are solutions for improving the quality of embedded software, mainly by using reproducible builds and extensive multi-plafrom testing.
+My current interrests are solutions for improving the quality of embedded software, mainly by using reproducible builds and extensive multi-plaform testing.
 
 The main open source projects that I am involved with are:
 
