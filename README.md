@@ -14,8 +14,8 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 
 - [WWW](https://xpack.github.io)
 - [GitHub](https://github.com/xpack/)
-- [xPack Development Tools](https://github.com/xpack-dev-tools/) - multi-platform binary xPacks
-- [VS Code xPack extension](https://marketplace.visualstudio.com/items?itemName=ilg-vscode.xpack) 
+- [xpack-dev-tools](https://github.com/xpack-dev-tools/) - multi-platform binary xPack development tools
+- [ilg-vscode.xpack](https://marketplace.visualstudio.com/items?itemName=ilg-vscode.xpack) - VS Code xPack extension
 
 ### µOS++
 
@@ -34,8 +34,8 @@ The **µOS++** project is a POSIX-like, portable, open source, royalty-free, mul
 
 ### Private links
 
-- [ilg The Geek's blog](https://ilgthegeek.wordpress.com)
-- [Liviu's personal blog](https://ilegeul.wordpress.com)
+- [ilgthegeek](https://ilgthegeek.wordpress.com) - ilg The Geek's blog
+- [ilegeul](https://ilegeul.wordpress.com) - Liviu's personal blog
 
 
 <!--
