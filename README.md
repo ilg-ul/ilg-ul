@@ -2,7 +2,7 @@ My name is **Ionescu Liviu Grigore** (_ilegeul_ for my colleagues) and I'm a rea
 
 ## Interrests
 
-I'm currently interrested in solutions for improving the quality of embedded software, mainly by using reproducible builds and extensive multi-plaform testing.
+I'm currently interrested in solutions for improving the quality of embedded software, mainly by using reproducible builds and extensive multi-plaform testing, with an emphasise on C++ projects.
 
 ## Projects
 
