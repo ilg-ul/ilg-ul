@@ -18,9 +18,9 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 - [ilg-vscode.xpack](https://marketplace.visualstudio.com/items?itemName=ilg-vscode.xpack) - VS Code xPack extension
 - [@xpack_project](https://twitter.com/xpack_project) - Twitter account for releases notifications
 
-### µOS++
+### The µOS++ Framework
 
-The **µOS++** project is a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++. 
+The **µOS++** project (_micro oh ɛs plus plus_) is a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++. 
 
 - [micro-os-plus.github.io](http://micro-os-plus.github.io) - project web site
 - [github.com/micro-os-plus](https://github.com/micro-os-plus/) - GitHub organisation with multiple projects
