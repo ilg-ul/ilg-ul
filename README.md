@@ -13,8 +13,8 @@ The main open source projects that I am involved with are:
 The **xPack** project aims to provide a set of cross-platform tools to manage, configure and build complex, modular, multi-target (multi-architecture, multi-board, multi-toolchain) projects, with an emphasis on C/C++ and bare-metal embedded projects.
 
 - [WWW](https://xpack.github.io)
-- [GitHub](https://github.com/xpack/)
-- [xpack-dev-tools](https://github.com/xpack-dev-tools/) - multi-platform binary xPack development tools
+- [github.com/xpack](https://github.com/xpack/) - GitHub organisation with multiple projects
+- [github.com/xpack-dev-tools](https://github.com/xpack-dev-tools/) - multi-platform binary xPack development tools
 - [ilg-vscode.xpack](https://marketplace.visualstudio.com/items?itemName=ilg-vscode.xpack) - VS Code xPack extension
 
 ### µOS++
@@ -22,15 +22,15 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 The **µOS++** project is a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++. 
 
 - [WWW](http://micro-os-plus.github.io)
-- [GitHub](https://github.com/micro-os-plus/)
-- [xpack-3rd-party](https://github.com/xpack-3rd-party/) - 3rd party libraries
+- [github.com/micro-os-plus](https://github.com/micro-os-plus/) - GitHub organisation with multiple projects
+- [github.com/xpack-3rd-party](https://github.com/xpack-3rd-party/) - GitHub organisation with 3rd party libraries
 
 ### Eclipse Embedded CDT
 
 **Eclipse Embedded CDT** is an open source project that includes a family of Eclipse plug-ins and tools for multi-platform embedded cross (Arm and RISC-V) development, based on GNU toolchains.
 
 - [WWW](https://eclipse-embed-cdt.github.io/)
-- [GitHub](https://github.com/eclipse-embed-cdt/)
+- [github.com/eclipse-embed-cdt](https://github.com/eclipse-embed-cdt/) - GitHub organisation
 
 ### Private links
 
