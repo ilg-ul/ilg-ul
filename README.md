@@ -1,6 +1,10 @@
-My name is Ionescu Liviu Grigore (_ilegeul_ for my colleagues) and I'm a real programmer (for those old enough to know the joke).
+My name is **Ionescu Liviu Grigore** (_ilegeul_ for my colleagues) and I'm a real programmer (for those old enough to know the [joke](http://www.pbm.com/~lindahl/real.programmers.html)).
+
+## Interrests
 
 I'm currently interrested in solutions for improving the quality of embedded software, mainly by using reproducible builds and extensive multi-plaform testing.
+
+## Projects
 
 The main open source projects that I am involved with are:
 
