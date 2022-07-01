@@ -15,6 +15,7 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 - [WWW](https://xpack.github.io)
 - [GitHub](https://github.com/xpack/)
 - [xPack Development Tools](https://github.com/xpack-dev-tools/)
+- [VS Code xPack extension](https://marketplace.visualstudio.com/items?itemName=ilg-vscode.xpack)
 
 ### µOS++ IIIe
 
