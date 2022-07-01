@@ -1,4 +1,31 @@
-### Hi there 👋
+## Liviu Ionescu
+
+My current interrests are solutions for improving the quality of embedded software, mainly by using reproducible builds and extensive multi-plafrom testing.
+
+The open source projects that I am involved with are:
+
+### The xPack Build Framework
+
+The **xPack** project aims to provide a set of cross-platform tools to manage, configure and build complex, modular, multi-target (multi-architecture, multi-board, multi-toolchain) projects, with an emphasis on C/C++ and bare-metal embedded projects.
+
+- [WWW](https://xpack.github.io)
+- [GitHub](https://github.com/xpack/)
+- [xPack Development Tools](https://github.com/xpack-dev-tools/)
+
+### µOS++ IIIe
+
+The **µOS++** project is a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++. 
+
+- [WWW](http://micro-os-plus.github.io)
+- [GitHub](https://github.com/micro-os-plus/)
+- [3rd party libraries](https://github.com/xpack-3rd-party/)
+
+### Eclipse Embedded CDT
+
+**Eclipse Embedded CDT** is an open source project that includes a family of Eclipse plug-ins and tools for multi-platform embedded cross (Arm and RISC-V) development, based on GNU toolchains.
+
+- [WWW](https://eclipse-embed-cdt.github.io/)
+- [GitHub](https://github.com/eclipse-embed-cdt/)
 
 <!--
 **ilg-ul/ilg-ul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
