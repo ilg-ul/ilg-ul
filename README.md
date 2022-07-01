@@ -1,4 +1,4 @@
-My name is **Ionescu Liviu Grigore** (_ilegeul_ for my colleagues) and I'm a real programmer (for those old enough to know the [joke](http://www.pbm.com/~lindahl/real.programmers.html)).
+My name is **Ionescu Liviu Grigore** (_ilg_, _ilegeul_ or _eunete_ for colleagues and friends) and I'm a senior IT engineer. Or should I say a real programmer? (for those old enough to know the [joke](http://www.pbm.com/~lindahl/real.programmers.html))
 
 ## Interrests
 
@@ -14,16 +14,16 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 
 - [WWW](https://xpack.github.io)
 - [GitHub](https://github.com/xpack/)
-- [xPack Development Tools](https://github.com/xpack-dev-tools/)
-- [VS Code xPack extension](https://marketplace.visualstudio.com/items?itemName=ilg-vscode.xpack)
+- [xPack Development Tools](https://github.com/xpack-dev-tools/) - multi-platform binary xPacks
+- [VS Code xPack extension](https://marketplace.visualstudio.com/items?itemName=ilg-vscode.xpack) 
 
-### µOS++ IIIe
+### µOS++
 
 The **µOS++** project is a POSIX-like, portable, open source, royalty-free, multi-tasking real-time framework intended for 32/64-bits embedded applications, written in C++. 
 
 - [WWW](http://micro-os-plus.github.io)
 - [GitHub](https://github.com/micro-os-plus/)
-- [3rd party libraries](https://github.com/xpack-3rd-party/)
+- [xpack-3rd-party](https://github.com/xpack-3rd-party/) - 3rd party libraries
 
 ### Eclipse Embedded CDT
 
