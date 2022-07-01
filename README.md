@@ -1,8 +1,10 @@
-My current interrests are solutions for improving the quality of embedded software, mainly by using reproducible builds and extensive multi-plaform testing.
+My name is Ionescu Liviu Grigore (_ilegeul_ for my colleagues) and I'm a real programmer (for those old enough to know the joke).
+
+I'm currently interrested in solutions for improving the quality of embedded software, mainly by using reproducible builds and extensive multi-plaform testing.
 
 The main open source projects that I am involved with are:
 
-### The xPack Build Framework
+### The xPack Reproducible Build Framework
 
 The **xPack** project aims to provide a set of cross-platform tools to manage, configure and build complex, modular, multi-target (multi-architecture, multi-board, multi-toolchain) projects, with an emphasis on C/C++ and bare-metal embedded projects.
 
@@ -24,6 +26,12 @@ The **µOS++** project is a POSIX-like, portable, open source, royalty-free, mul
 
 - [WWW](https://eclipse-embed-cdt.github.io/)
 - [GitHub](https://github.com/eclipse-embed-cdt/)
+
+### Private links
+
+- [ilg The Geek's blog](https://ilgthegeek.wordpress.com)
+- [Liviu's personal blog](https://ilegeul.wordpress.com)
+
 
 <!--
 **ilg-ul/ilg-ul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
