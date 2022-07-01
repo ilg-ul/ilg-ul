@@ -6,7 +6,7 @@ I'm currently interrested in solutions for improving the quality of embedded sof
 
 ## Projects
 
-The main open source projects that I am involved with are:
+The main open source projects that I have fun with are:
 
 ### The xPack Reproducible Build Framework
 
