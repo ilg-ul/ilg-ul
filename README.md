@@ -1,4 +1,4 @@
-My name is **Ionescu Liviu Grigore** (_ilg_, _ilegeul_ or _eunete_ for colleagues and friends) and I'm a senior IT engineer. Or should I say a _real programmer_? (for those old enough to remember the [joke](http://www.pbm.com/~lindahl/real.programmers.html))
+My name is **Ionescu Liviu Grigore** (_ilg_, _ilegeul_ or _eunete_ for colleagues and friends) and I'm a senior software engineer. Or should I say a _real programmer_? (for those old enough to remember the [joke](http://www.pbm.com/~lindahl/real.programmers.html))
 
 ## Interrests
 
