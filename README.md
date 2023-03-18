@@ -37,8 +37,8 @@ The **µOS++** project (_micro oh ɛs plus plus_) is a POSIX-like, portable, ope
 
 ### Gists
 
-- <https://gist.github.com/ilg-ul>
-- [short-license-mit](https://gist.github.com/ilg-ul/027f1b93fd95fc979a66375c8df2a1fe)
+- [ilg-ul](https://gist.github.com/ilg-ul)
+  - [short-license-mit](https://gist.github.com/ilg-ul/027f1b93fd95fc979a66375c8df2a1fe)
 
 ### Private links
 
