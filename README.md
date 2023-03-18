@@ -35,6 +35,10 @@ The **µOS++** project (_micro oh ɛs plus plus_) is a POSIX-like, portable, ope
 - [github.com/eclipse-embed-cdt](https://github.com/eclipse-embed-cdt/) - GitHub organisation
 - [@EmbedCDT](https://twitter.com/EmbedCDT) - Twitter account for releases notifications
 
+### Gists
+
+- <https://gist.github.com/ilg-ul>
+
 ### Private links
 
 - [@ilegeul](https://twitter.com/ilegeul) - Twitter account
