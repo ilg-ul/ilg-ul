@@ -1,8 +1,8 @@
 My name is **Ionescu Liviu Grigore** (_ilg_, _ilegeul_ or _eunete_ for colleagues and friends) and I'm a senior software engineer. Or should I say a _real programmer_? (for those old enough to remember the [joke](http://www.pbm.com/~lindahl/real.programmers.html))
 
-## Interrests
+## Interests
 
-I'm currently interrested in solutions for improving the quality of **embedded software**, mainly by using **reproducible builds frameworks** and extensive **multi-plaform testing** (Arm & RISC-V), with an emphasise on **C++ and bare-metal embedded** projects.
+I'm currently interested in solutions for improving the quality of **embedded software**, mainly by using **reproducible builds frameworks** and extensive **multi-plaform testing** (Arm & RISC-V), with an emphasise on **C++ and bare-metal embedded** projects.
 
 ## Projects
 
